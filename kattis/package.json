@@ -1,0 +1,16 @@
+{
+  "name": "kattis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "ctrlv": "./app.js"
+  },
+  "author": "Jonas Tranberg",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "download": "^4.4.3",
+    "fs-extra": "^0.26.5"
+  }
+}
